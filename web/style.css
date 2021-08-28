@@ -1,0 +1,131 @@
+h1, h2 {
+                font-family: "Source Sans Pro", sans-serif;
+                font-weight: normal;
+            }
+
+            a {
+                text-align: center;
+                text-decoration: none;
+                font-family: 'Roboto', sans-serif;
+                background-color: rgb(0, 200, 54);
+                border-color: solid black;
+                padding: 20px;
+                color: black;
+                margin: auto;
+                border-radius: 15px;
+                transition: 0.3s;
+                display: inline-block;
+                opacity: 0.6;
+                cursor: pointer;
+
+            }
+
+            a:hover {
+                opacity: 1;
+            }
+
+            .aligner {
+                text-align: center;
+            }
+
+            header {
+                background-color: #f1f1f1;
+                text-align: center;
+                padding: 20px;
+                border-bottom: solid rgb(120, 120, 120) 1px;
+            }
+
+            .navlinks {
+                overflow: hidden;
+                background-color: #f1f1f1;
+                margin: 5px;
+                border-bottom: solid rgb(120, 120, 120) 1px;
+            }
+
+            .navlinks a {
+                float: left;
+                display: block;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+                margin: 5px;
+            }
+
+            body {
+                background-color: #f1f1f1;
+            }
+
+            .p_style1 {
+                font-family: "Roboto", sans-serif;
+                padding: 20px;
+                margin: 10px;
+                text-align: center;
+                color: black;
+                border-radius: 10px;
+                background-color: rgb(0, 200, 54);
+            }
+
+            .p_style2 {
+                font-family: 'Roboto', sans-serif;
+                text-align: center;
+            }
+
+            .a_style1 a {
+                background-color: rgb(58, 42, 212);
+                opacity: 0.9;
+                cursor: pointer;
+            }
+
+            .a_style1 a:hover {
+                opacity: 1;
+            }
+
+            .a_style2 a {
+                background-color: rgb(184, 20, 33);
+                opacity: 0.9;
+                cursor: pointer;
+            }
+
+            .a_style2 a:hover {
+                opacity: 1;
+            }
+            
+            .yt_c {
+                border-radius: 30px;
+            }
+
+            .a_style3 a {
+                background-color: rgb(21, 123, 233);
+                opacity: 0.9;
+                cursor: pointer;
+            }
+
+            .a_style3 a:hover {
+                opacity: 1;
+            }
+
+            .a_style4 a {
+                background-color: rgb(255, 140, 0);
+                opacity: 0.9;
+                cursor: pointer;
+            }
+
+            .a_style4 a:hover {
+                opacity: 1;
+            }
+            
+            iframe {
+                border: solid #f1f1f1 1px;
+            }
+
+            .rotation60 {
+                -webkit-transform: rotate(-60deg);
+                -moz-transform: rotate(-60deg);
+                -o-transform: rotate(-60deg);
+                -ms-transform: rotate(-60deg);
+                transform: rotate(-60deg);
+            }
+
+            .padding_icon {
+                margin: 200px;
+            }
